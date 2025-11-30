@@ -1,3 +1,7 @@
+[OpenSpec](https://github.com/Fission-AI/OpenSpec) is much better
+
+---
+
 # HANDOFF
 
 > **HANDOFF = Handoff Assures Notes, Docs, Outcomes For Features.**  
